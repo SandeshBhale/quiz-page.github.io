@@ -179,7 +179,9 @@ const quizData = [
     resultContainer.innerHTML = `
       <p>You scored ${score} out of ${quizData.length}!</p>
       <p>Showing Pie chart:</p>
+      <br>
       <p> work under construction </p>
+      <br>
       ${incorrectAnswersHtml}
     `;
   }
